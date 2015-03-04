@@ -1,6 +1,6 @@
 {
   "name": "google-maps-markermanager",
-  "version": "1.2",
+  "version": "1.2.0",
   "authors": [
     "Doug Ricket, Bjorn Brala (port to v3), others"
   ],
