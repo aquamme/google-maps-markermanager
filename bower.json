@@ -1,0 +1,24 @@
+{
+  "name": "google-maps-markermanager",
+  "version": "1.2",
+  "authors": [
+    "Doug Ricket, Bjorn Brala (port to v3), others"
+  ],
+  "description": "A bower package containing the code found here: http://google-maps-utility-library-v3.googlecode.com/svn/tags/markermanager/1.2",
+  "keywords": [
+    "googlemaps",
+    "google-maps",
+    "markermanager",
+    "marker",
+    "manager",
+    "marker-manager"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
